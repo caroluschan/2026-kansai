@@ -1,0 +1,1532 @@
+{
+  "meta": {
+    "generated_on": "2026-02-18",
+    "trip_window": {
+      "arrive": "2026-11-12T12:45:00+09:00",
+      "depart": "2026-11-16T18:05:00+09:00",
+      "airport": "KIX"
+    },
+    "notes": [
+      "Best-effort curated dataset for Kansai (Wakayama / Nara / Kyoto / Osaka / Sakai).",
+      "For many small restaurants, reliable lat/long isn’t consistently published on the open web; those entries include a Google Maps search link and may have lat/long=null.",
+      "Use the Google Maps link (mappoint) to pin/confirm exact location before driving."
+    ]
+  },
+  "regions": [
+    {
+      "region": "Wakayama",
+      "restaurants": [
+        {
+          "name": "Ide Shoten (井出商店)",
+          "address": "2-7 Tanakamachi, Wakayama, 640-8329, Japan",
+          "description": "Classic Wakayama ramen; strong local favorite (go early to avoid queues).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Ide+Shoten+Wakayama+2-7+Tanakamachi,+Wakayama+640-8329+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/wakayama/A3001/A300101/30000001/"
+        },
+        {
+          "name": "Kadoya Shokudo (かどや食堂)",
+          "address": "(Wakayama City)",
+          "description": "Local set-meal style; good for simple, honest Japanese food.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=かどや食堂+和歌山",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/wakayama/"
+        },
+        {
+          "name": "Tonkatsu Ginza Bairin (Wakayama)",
+          "address": "Wakayama City, Wakayama",
+          "description": "Reliable tonkatsu; good fallback when you want something consistent.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=とんかつ+銀座+梅林+和歌山",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/wakayama/"
+        },
+        {
+          "name": "Kuroshio Market (黒潮市場)",
+          "address": "1527 Kemi, Wakayama, 641-0014, Japan",
+          "description": "Seafood market + food stalls; tuna cutting shows; easy, fun meal stop.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kuroshio+Market+1527+Kemi,+Wakayama+641-0014+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.marinacity.com/kuroshio/"
+        },
+        {
+          "name": "Toretore Ichiba Food Court (とれとれ市場)",
+          "address": "2521 Katata, Shirahama, Nishimuro District, Wakayama 649-2201, Japan",
+          "description": "Huge seafood market; good for casual grazing and fresh seafood bowls.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Toretore+Ichiba+2521+Katata+Shirahama+Wakayama+649-2201+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://toretore.com/"
+        },
+        {
+          "name": "Maruman Ramen (丸万ラーメン)",
+          "address": "Wakayama City, Wakayama",
+          "description": "Another strong Wakayama ramen option; compare styles with Ide Shoten.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Maruman+Ramen+Wakayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://eat-wakayama.jp/en/"
+        },
+        {
+          "name": "Mehari-zushi (めはり寿司) specialist shops (Kumano area)",
+          "address": "Tanabe / Shingu area, Wakayama",
+          "description": "Local specialty (pickled mustard leaf sushi). Great as a quick drive snack.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=めはり寿司+田辺",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Shirasu-don spots (Kainan / Wakayama)",
+          "address": "Kainan / Wakayama coast",
+          "description": "Fresh whitebait rice bowls; seasonal; good local food-hunt target.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=しらす丼+海南",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Sushi / Kaiseki in Shirahama (choose by same-day mood)",
+          "address": "Shirahama, Wakayama",
+          "description": "If you want one nicer meal: pick a small sushi/kaiseki spot with good reviews and no hype queues.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=寿司+白浜",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Wakayama Ramen Marui (和歌山ラーメン まるイ)",
+          "address": "Wakayama City, Wakayama",
+          "description": "Well-known Wakayama ramen chain; convenient if you are driving around the city.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=和歌山ラーメン+まるイ",
+          "lat": null,
+          "lng": null,
+          "ref": "https://eat-wakayama.jp/en/"
+        }
+      ],
+      "theme_parks": [
+        {
+          "name": "Adventure World",
+          "address": "2399 Katata, Shirahama, Nishimuro District, Wakayama 649-2201, Japan",
+          "description": "Zoo + aquarium + rides; famous for pandas and safari-style viewing.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Adventure+World+2399+Katata+Shirahama+Wakayama+649-2201+Japan",
+          "lat": 33.665833,
+          "lng": 135.3725,
+          "ref": "https://japan-travel.net/en/attractions/10772"
+        }
+      ],
+      "zoos": [
+        {
+          "name": "Adventure World",
+          "address": "2399 Katata, Shirahama, Nishimuro District, Wakayama 649-2201, Japan",
+          "description": "Top animal interaction day in Wakayama (pandas, safari, marine shows).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Adventure+World+2399+Katata+Shirahama+Wakayama+649-2201+Japan",
+          "lat": 33.665833,
+          "lng": 135.3725,
+          "ref": "https://japan-travel.net/en/attractions/10772"
+        },
+        {
+          "name": "Porto Europa (Marina City) (family amusement area)",
+          "address": "1527 Kemi, Wakayama, 641-0014, Japan",
+          "description": "Light theme area next to Kuroshio Market; easy combo stop (not animal-focused, but fun).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Porto+Europa+1527+Kemi+Wakayama+641-0014+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.marinacity.com/"
+        },
+        {
+          "name": "Shirahama Energy Land (quirky attraction)",
+          "address": "3083 Shirahama, Nishimuro District, Wakayama 649-2211, Japan",
+          "description": "Old-school interactive “science/experience” park; good for a chill, fun hour.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Shirahama+Energy+Land+3083+Shirahama+Wakayama+649-2211+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.energyland.jp/"
+        }
+      ],
+      "malls": [
+        {
+          "name": "AEON Mall Wakayama",
+          "address": "23 Fujitodai, Wakayama, 640-8454, Japan",
+          "description": "Big AEON mall; easy shopping + food court + daily needs.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=AEON+Mall+Wakayama+23+Fujitodai+Wakayama+640-8454+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://wakayama-aeonmall.com/"
+        },
+        {
+          "name": "Kintetsu Department Store Wakayama",
+          "address": "5-18 Tomodacho, Wakayama, 640-8342, Japan",
+          "description": "Downtown department store near Wakayama Station; good for gifts/food basement.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kintetsu+Department+Store+Wakayama+5-18+Tomodacho+Wakayama+640-8342+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.d-kintetsu.co.jp/"
+        },
+        {
+          "name": "Wakayama MIO",
+          "address": "(Wakayama Station area)",
+          "description": "Station mall convenience: snacks, quick shopping, easy parking nearby.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Wakayama+MIO",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.jr-odekake.net/"
+        },
+        {
+          "name": "Marina City (shopping + food)",
+          "address": "1527 Kemi, Wakayama, 641-0014, Japan",
+          "description": "Combine with seafood market; easy half-day for shopping + casual eats.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Wakayama+Marina+City+1527+Kemi+Wakayama+641-0014+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.marinacity.com/"
+        },
+        {
+          "name": "Toretore Market (shopping)",
+          "address": "2521 Katata, Shirahama, Nishimuro District, Wakayama 649-2201, Japan",
+          "description": "Souvenir/food shopping hub; great for local snacks and seafood.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Toretore+Ichiba+2521+Katata+Shirahama+Wakayama+649-2201+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://toretore.com/"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "Favorite Coffee Wakayama",
+          "address": "55 Juunibancho, Wakayama City, Wakayama 640-8158, Japan",
+          "description": "Local specialty coffee stop in Wakayama City; good for daily caffeine ritual.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Favorite+Coffee+Wakayama+55+Juunibancho+Wakayama+640-8158+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://eat-wakayama.jp/en/spot/detail/2400092"
+        },
+        {
+          "name": "(Shirahama) specialty coffee stops (pick by area)",
+          "address": "Shirahama, Wakayama",
+          "description": "In resort towns, small roasters change; aim for places doing hand-drip / single origin.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=specialty+coffee+Shirahama+Wakayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "(Kumano / Tanabe) coffee stops (pick by route)",
+          "address": "Tanabe / Shingu, Wakayama",
+          "description": "Good mid-drive breaks if you do Kumano area; choose non-hype, small shops.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=coffee+roastery+Tanabe+Wakayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        }
+      ],
+      "tourist_spots": [
+        {
+          "name": "Shirahama Beach (白良浜)",
+          "address": "Shirahama, Wakayama, Japan",
+          "description": "Easy coastal stroll; nice even without being hardcore nature-focused.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Shirarahama+Beach+Wakayama",
+          "lat": 33.68167,
+          "lng": 135.34444,
+          "ref": "https://en.wikipedia.org/wiki/Shirahama,_Wakayama"
+        },
+        {
+          "name": "Toretore Market (とれとれ市場)",
+          "address": "2521 Katata, Shirahama, Wakayama 649-2201, Japan",
+          "description": "Food + souvenirs; high enjoyment/low effort.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Toretore+Ichiba+2521+Katata+Shirahama+Wakayama+649-2201+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://toretore.com/"
+        },
+        {
+          "name": "Wakayama Castle",
+          "address": "3 Ichibancho, Wakayama, 640-8146, Japan",
+          "description": "Low-effort history stop; good views; not a temple/fortune site.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Wakayama+Castle+3+Ichibancho+Wakayama+640-8146+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayamakanko.com/"
+        },
+        {
+          "name": "Kimiidera Park / coastal viewpoints nearby",
+          "address": "Wakayama, Japan",
+          "description": "Pick viewpoints without making it a long trip; short scenic break.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kimiidera+Wakayama+viewpoint",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Kuroshio Market",
+          "address": "1527 Kemi, Wakayama, 641-0014, Japan",
+          "description": "Seafood market + shows; easy fun.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kuroshio+Market+1527+Kemi+Wakayama+641-0014+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.marinacity.com/kuroshio/"
+        },
+        {
+          "name": "Tomogashima Islands (day trip)",
+          "address": "Kada, Wakayama, Japan",
+          "description": "If you want a unique (not too long) mini-adventure; ruins + sea air.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tomogashima+Wakayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Kumano Kodo (short section only)",
+          "address": "Tanabe / Hongu area",
+          "description": "Do a short walk segment (1–2 hours) instead of long scenic travel.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kumano+Kodo+Tanabe",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.tb-kumano.jp/en/"
+        },
+        {
+          "name": "Onsen experience (Shirahama)",
+          "address": "Shirahama, Wakayama",
+          "description": "Relaxing evening activity; pick a day-use onsen with ocean view.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=day-use+onsen+Shirahama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.wakayama-kanko.or.jp/"
+        },
+        {
+          "name": "Koyasan (if you want history)",
+          "address": "Koya, Ito District, Wakayama",
+          "description": "Many sites are temple-based; only go if you want cultural context (you can skip).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Koyasan+Wakayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4900.html"
+        },
+        {
+          "name": "Roadside stations (道の駅) for local snacks",
+          "address": "Various",
+          "description": "High ROI: quick stops, local produce, no hype lines.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=道の駅+和歌山",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.mlit.go.jp/road/Michi-no-Eki/"
+        }
+      ]
+    },
+    {
+      "region": "Nara",
+      "restaurants": [
+        {
+          "name": "Maguro Koya (Nara)",
+          "address": "Nara, Japan",
+          "description": "Look for small seafood/rice-bowl shops in Naramachi area; avoid hype queues.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=まぐろ小屋+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Kakinoha-zushi specialty shops",
+          "address": "Nara Prefecture",
+          "description": "Regional pressed sushi wrapped in persimmon leaf—great to-go meal.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=柿の葉寿司+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Edogawa Naramachi (unagi)",
+          "address": "Nara, Japan",
+          "description": "If you want one ‘nice but not flashy’ meal, unagi is a strong pick.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=江戸川+奈良町+うなぎ",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/nara/"
+        },
+        {
+          "name": "Nara local soba shops (choose by area)",
+          "address": "Nara, Japan",
+          "description": "Good low-key meal; pick places with small dining rooms and handmade soba.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=手打ちそば+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/nara/"
+        },
+        {
+          "name": "Yamato chicken yakitori spots",
+          "address": "Nara, Japan",
+          "description": "Casual night meal; easy pair with coffee-crawl day.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=大和肉鶏+焼き鳥+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Miwa somen (near Sakurai)",
+          "address": "Sakurai, Nara, Japan",
+          "description": "Local thin noodles; great light lunch between spots.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=三輪そうめん+桜井",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Nara machiya lunch cafes (non-hype)",
+          "address": "Naramachi, Nara",
+          "description": "Look for small set-lunch places inside renovated townhouses.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=ならまち+町家+ランチ",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Katsudon / teishoku near Yamato-Saidaiji",
+          "address": "Nara, Japan",
+          "description": "Practical meal near the shopping hub (Nara Family).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=定食+大和西大寺",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Persimmon desserts (Nara specialty)",
+          "address": "Nara, Japan",
+          "description": "Seasonal treats in November; hunt for kaki-based wagashi.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=柿+和菓子+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Nara craft beer + simple food (if interested)",
+          "address": "Nara, Japan",
+          "description": "Optional; many small bars also do good snacks.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=craft+beer+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        }
+      ],
+      "theme_parks": [
+        {
+          "name": "Ikoma Sanjo Amusement Park (生駒山上遊園地)",
+          "address": "2312-1 Nabatacho, Ikoma, Nara 630-0231, Japan",
+          "description": "Old-school hilltop amusement park; good light thrills without big crowds.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Ikoma+Sanjo+Amusement+Park+2312-1+Nabatacho+Ikoma+Nara+630-0231+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.ikomasanjou.com/"
+        }
+      ],
+      "zoos": [
+        {
+          "name": "Nara Park (deer)",
+          "address": "Kasugano-cho, Nara, 630-8212, Japan",
+          "description": "Deer interaction; go early for calmer vibe.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nara+Park+Kasugano-cho+Nara+630-8212+Japan",
+          "lat": 34.6847,
+          "lng": 135.8393,
+          "ref": "https://latitude.to/articles-by-country/jp/japan/15981/nara-park"
+        },
+        {
+          "name": "Nara Ikimono Museum (ならいきものミュージアム)",
+          "address": "Nara City, Nara, Japan",
+          "description": "Indoors ‘small animals’ / exhibits style; good rainy-day animal fix.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=ならいきものミュージアム",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Nara Goldfish Museum (奈良金魚ミュージアム)",
+          "address": "(inside a shopping complex) Nara, Japan",
+          "description": "Fun, artsy aquarium-like experience; easy + entertaining.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=奈良金魚ミュージアム",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        }
+      ],
+      "malls": [
+        {
+          "name": "Nara Family",
+          "address": "2-4-1 Saidaijihigashi-machi, Nara, 631-8511, Japan",
+          "description": "Major shopping center with Kintetsu Dept Store + AEON + specialty zone.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nara+Family+2-4-1+Saidaijihigashi-machi+Nara+631-8511+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.d-kintetsu.co.jp/store/nara/foreigner/"
+        },
+        {
+          "name": "AEON Mall Kashihara",
+          "address": "Kashihara, Nara, Japan",
+          "description": "Big AEON mall in Nara Pref; easy shopping + food.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=AEON+Mall+Kashihara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.aeonmall.com/"
+        },
+        {
+          "name": "M! Nara (ならファミリー周辺 retail)",
+          "address": "Nara, Japan",
+          "description": "Cluster of shops around Yamato-Saidaiji—good for low-friction shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Yamato-Saidaiji+shopping",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Roadside Station (道の駅) Nara clusters",
+          "address": "Nara Prefecture",
+          "description": "Snacks + local produce; good driving break.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=道の駅+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.mlit.go.jp/road/Michi-no-Eki/"
+        },
+        {
+          "name": "Montbell outlets / sports stores (Nara/Ikoma area)",
+          "address": "Nara Prefecture",
+          "description": "For tennis/squash gear browsing; check store availability by route.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=mont-bell+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.montbell.jp/"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "CHAMI - Specialty Coffee Roaster",
+          "address": "6-2 Tsunofurishinyacho, Nara, 630-8223, Japan",
+          "description": "Strong local specialty roaster pick (great for beans + hand-drip).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=CHAMI+Specialty+Coffee+Roaster+6-2+Tsunofurishinyacho+Nara+630-8223+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.findcoffee.app/en/news/discovernarasthrivingspecialtycoffeescene"
+        },
+        {
+          "name": "Rokumei Coffee (ロクメイコーヒー)",
+          "address": "Nara, Japan",
+          "description": "Well-known Nara specialty brand; good for buying beans as souvenirs.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Rokumei+Coffee+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://wanderlog.com/list/geoCategory/16925/best-coffee-shops-and-best-cafes-in-nara"
+        },
+        {
+          "name": "Sarutahiko Coffee Nara (Shika-Saru-Kitsune Building)",
+          "address": "Nara, Japan",
+          "description": "Reliable modern chain with good quality; easy stop during shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sarutahiko+Coffee+Nara+Shika-Saru-Kitsune+Building",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.gltjp.com/en/directory/item/13238/"
+        }
+      ],
+      "tourist_spots": [
+        {
+          "name": "Nara Park",
+          "address": "Kasugano-cho, Nara, 630-8212, Japan",
+          "description": "Deer + huge park; just avoid temple-focused routes if desired.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nara+Park+Kasugano-cho+Nara+630-8212+Japan",
+          "lat": 34.6847,
+          "lng": 135.8393,
+          "ref": "https://www.the-kansai-guide.com/en/directory/item/11402/"
+        },
+        {
+          "name": "Naramachi (old town streets)",
+          "address": "Nara, Japan",
+          "description": "Strollable area with small shops and cafes; good ‘hidden gem’ vibe.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Naramachi+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Heijō Palace Site (平城宮跡)",
+          "address": "Nara, Japan",
+          "description": "Open historical site; spacious and low-pressure.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Heijo+Palace+Site+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Asuka historical area (short drive)",
+          "address": "Asuka, Nara, Japan",
+          "description": "Cycling-friendly rural history area; choose a short loop, not a long trek.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Asuka+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Mt. Wakakusa viewpoint (optional)",
+          "address": "Nara, Japan",
+          "description": "Quick view without long travel; drive or short walk segment.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Mt+Wakakusa+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Uda / Yoshino countryside (pick one stop)",
+          "address": "Nara Prefecture",
+          "description": "If you want a calmer drive day; choose 1–2 stops only.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Uda+Nara",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Nara craft shops (Nakagawa Masashichi etc.)",
+          "address": "Nara, Japan",
+          "description": "Quality lifestyle goods; good gifts.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=中川政七商店+奈良",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.gltjp.com/en/"
+        },
+        {
+          "name": "Tennis courts (public) + quick hit",
+          "address": "Nara City / Ikoma",
+          "description": "If you want one sports break: book courts (public facilities).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nara+tennis+court+reservation",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.nara.lg.jp/"
+        },
+        {
+          "name": "Onsen day-use (Nara outskirts)",
+          "address": "Nara Prefecture",
+          "description": "Relaxing evening without intense travel.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nara+day-use+onsen",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.visitnara.jp/"
+        },
+        {
+          "name": "Roadside station snack crawl",
+          "address": "Nara Prefecture",
+          "description": "Low-effort, high-fun driving add-on.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=道の駅+奈良+おすすめ",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.mlit.go.jp/road/Michi-no-Eki/"
+        }
+      ]
+    },
+    {
+      "region": "Kyoto",
+      "restaurants": [
+        {
+          "name": "Ippudo (AEON Mall Kyoto)",
+          "address": "1 Nishikujo Toriiguchicho, Minami Ward, Kyoto 601-8417, Japan",
+          "description": "Convenient reliable ramen during mall day; not a ‘hype queue’ spot.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Ippudo+AEON+Mall+Kyoto+1+Nishikujo+Toriiguchicho+Kyoto+601-8417+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.insidekyoto.com/aeon-mall-kyoto"
+        },
+        {
+          "name": "Nishiki Market food grazing (choose stalls)",
+          "address": "Nakagyo Ward, Kyoto, Japan",
+          "description": "Do a short, targeted food walk (avoid the most crowded stalls).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e3931.html"
+        },
+        {
+          "name": "Obanzai small plates (local home-style)",
+          "address": "Kyoto, Japan",
+          "description": "Kyoto home-style; pick small counter places with set menus.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=おばんざい+京都",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        },
+        {
+          "name": "Kyoto curry udon spots",
+          "address": "Kyoto, Japan",
+          "description": "Comfort food; good rainy/cold November meal.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=カレーうどん+京都",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/kyoto/"
+        },
+        {
+          "name": "Kaiseki lunch (weekday)",
+          "address": "Kyoto, Japan",
+          "description": "If you want 1 refined meal, do lunch kaiseki to save time/money.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=kaiseki+lunch+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        },
+        {
+          "name": "Katsu / teishoku near Kyoto Station",
+          "address": "Kyoto Station area",
+          "description": "Practical for driving days in/out; many solid options.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=tonkatsu+Kyoto+Station",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        },
+        {
+          "name": "Gion side-streets (non-hype) dinner",
+          "address": "Gion, Kyoto",
+          "description": "Choose quieter side streets; avoid famous long-queue spots.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Gion+Kyoto+small+restaurant",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        },
+        {
+          "name": "Yakiniku (Kyoto)",
+          "address": "Kyoto, Japan",
+          "description": "Easy satisfying dinner after shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=yakiniku+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/kyoto/"
+        },
+        {
+          "name": "Sushi counter (reservation)",
+          "address": "Kyoto, Japan",
+          "description": "Book a small counter to avoid queue + avoid KOL hype.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=sushi+counter+reservation+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/kyoto/"
+        },
+        {
+          "name": "Dept store depachika (food basement)",
+          "address": "Kyoto, Japan",
+          "description": "High-quality grab-and-go without waiting.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+department+store+depachika",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        }
+      ],
+      "theme_parks": [
+        {
+          "name": "Toei Kyoto Studio Park (東映太秦映画村)",
+          "address": "10 Uzumasa Higashihachiokacho, Ukyo Ward, Kyoto 616-8586, Japan",
+          "description": "Film/anime-friendly theme park; good ‘experience’ day without temple focus.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Toei+Kyoto+Studio+Park+10+Uzumasa+Higashihachiokacho+Ukyo+Ward+Kyoto+616-8586+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.toei-eigamura.com/"
+        }
+      ],
+      "zoos": [
+        {
+          "name": "Kyoto City Zoo",
+          "address": "Okazaki Park, Sakyo Ward, Kyoto 606-8333, Japan",
+          "description": "Compact zoo; easy half-day with nearby cafes.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+City+Zoo+Okazaki+Park+Sakyo+Ward+Kyoto+606-8333+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www5.city.kyoto.jp/zoo/en/"
+        },
+        {
+          "name": "Kyoto Aquarium",
+          "address": "35-1 Kankijicho, Shimogyo Ward, Kyoto 600-8835, Japan",
+          "description": "Indoor aquarium; good rainy-day animal fix.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+Aquarium+35-1+Kankijicho+Shimogyo+Ward+Kyoto+600-8835+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto-aquarium.com/en/"
+        },
+        {
+          "name": "Arashiyama Monkey Park Iwatayama",
+          "address": "Arashiyama, Nishikyo Ward, Kyoto, Japan",
+          "description": "Monkeys + city view; moderate walk, but short and rewarding.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Arashiyama+Monkey+Park+Iwatayama",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e3919.html"
+        }
+      ],
+      "malls": [
+        {
+          "name": "AEON Mall KYOTO",
+          "address": "1 Nishikujo Toriiguchicho, Minami Ward, Kyoto 601-8417, Japan",
+          "description": "Big mall near Kyoto Station; easy for shopping + food court.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=AEON+Mall+KYOTO+1+Nishikujo+Toriiguchicho+Minami+Ward+Kyoto+601-8417+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://kyoto-aeonmall.com/static/detail/access"
+        },
+        {
+          "name": "KYOTO AVANTI",
+          "address": "31 Higashikujo Nishisannocho, Minami Ward, Kyoto 601-8003, Japan",
+          "description": "Station-adjacent shopping; convenient quick browse.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=KYOTO+AVANTI+31+Higashikujo+Nishisannocho+Kyoto+601-8003+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto-avanti.com/"
+        },
+        {
+          "name": "Shijo-Kawaramachi department stores (Takashimaya, etc.)",
+          "address": "Nakagyo Ward, Kyoto",
+          "description": "Good for depachika + gifts; easy evening stop.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+Takashimaya",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.takashimaya.co.jp/"
+        },
+        {
+          "name": "Kyoto BAL (fashion + lifestyle)",
+          "address": "Nakagyo Ward, Kyoto",
+          "description": "PARCO-like vibe; good for contemporary brands.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+BAL",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyotobal.com/"
+        },
+        {
+          "name": "Yodobashi Kyoto (tech + sports corners nearby)",
+          "address": "590-2 Higashishiokojicho, Shimogyo Ward, Kyoto 600-8216, Japan",
+          "description": "Tech browsing + practical travel items; quick win.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Yodobashi+Kyoto+590-2+Higashishiokojicho+Kyoto+600-8216+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.yodobashi-kyoto.com/"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "KURASU Kyoto Stand",
+          "address": "Kyoto, Japan",
+          "description": "Top specialty coffee pick near Kyoto Station area.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=KURASU+Kyoto+Stand",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.thingsnomadsdo.com/blog/best-specialty-coffee-kyoto"
+        },
+        {
+          "name": "WEEKENDERS COFFEE",
+          "address": "Kyoto, Japan",
+          "description": "Classic Kyoto specialty coffee vibe; strong beans and pourover.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=WEEKENDERS+COFFEE+TOMINOKOJI",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.cntraveller.com/gallery/best-coffee-shops-kyoto"
+        },
+        {
+          "name": "Wife & Husband",
+          "address": "Kyoto, Japan",
+          "description": "Beloved small coffee shop; go at off-peak to avoid crowding.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Wife+&+Husband+Kyoto+coffee",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.cntraveller.com/gallery/best-coffee-shops-kyoto"
+        }
+      ],
+      "tourist_spots": [
+        {
+          "name": "Arashiyama area (non-bamboo-focus)",
+          "address": "Arashiyama, Kyoto",
+          "description": "Do river stroll + coffee; skip photo-only spots if crowded.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Arashiyama+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e3912.html"
+        },
+        {
+          "name": "Nijo Castle",
+          "address": "541 Nijojocho, Nakagyo Ward, Kyoto 604-8301, Japan",
+          "description": "Historical castle site; less ‘temple tourism’ feel.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nijo+Castle+541+Nijojocho+Nakagyo+Ward+Kyoto+604-8301+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e3918.html"
+        },
+        {
+          "name": "Kyoto Railway Museum",
+          "address": "Kankijicho, Shimogyo Ward, Kyoto 600-8835, Japan",
+          "description": "Fun indoor museum; high enjoyment without rushing.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+Railway+Museum+Kankijicho+Shimogyo+Ward+Kyoto+600-8835+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyotorailwaymuseum.jp/en/"
+        },
+        {
+          "name": "Kyoto Aquarium",
+          "address": "35-1 Kankijicho, Shimogyo Ward, Kyoto 600-8835, Japan",
+          "description": "Animal fix; easy in November weather.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+Aquarium+35-1+Kankijicho+Shimogyo+Ward+Kyoto+600-8835+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto-aquarium.com/en/"
+        },
+        {
+          "name": "Kyoto International Manga Museum",
+          "address": "452 Kinbukicho, Nakagyo Ward, Kyoto 604-0846, Japan",
+          "description": "Anime/manga-friendly; relaxed browsing.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+International+Manga+Museum+452+Kinbukicho+Nakagyo+Ward+Kyoto+604-0846+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyotomm.jp/en/"
+        },
+        {
+          "name": "Fushimi sake district (no shrine focus)",
+          "address": "Fushimi, Kyoto",
+          "description": "If you enjoy tasting/culture; easy low-travel-time area.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Fushimi+sake+district",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        },
+        {
+          "name": "Nishiki Market (short targeted visit)",
+          "address": "Nakagyo Ward, Kyoto",
+          "description": "Food hunt; keep it short to avoid crowds.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e3931.html"
+        },
+        {
+          "name": "Nintendo KYOTO (for fans)",
+          "address": "Kyoto Takashimaya S.C., Kyoto",
+          "description": "Fun quick stop for gaming/anime adjacent merch.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Nintendo+KYOTO",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.nintendo.co.jp/officialstore/"
+        },
+        {
+          "name": "Tennis court session (Kyoto City)",
+          "address": "Kyoto, Japan",
+          "description": "Book public courts for a 1–2 hour hit if schedule allows.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+tennis+court+reservation",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.kyoto.lg.jp/"
+        },
+        {
+          "name": "Dept store depachika dinner",
+          "address": "Kyoto, Japan",
+          "description": "Low-queue, high-quality dinner option.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kyoto+depachika",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kyoto.travel/en/"
+        }
+      ]
+    },
+    {
+      "region": "Osaka",
+      "restaurants": [
+        {
+          "name": "Kuromon Ichiba Market (targeted stalls)",
+          "address": "2 Chome-4-1 Nipponbashi, Chuo Ward, Osaka 542-0073, Japan",
+          "description": "Food grazing; go earlier and avoid the most touristy stalls.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Kuromon+Ichiba+Market+2+Chome-4-1+Nipponbashi+Chuo+Ward+Osaka+542-0073+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4031.html"
+        },
+        {
+          "name": "Okonomiyaki (small local shop)",
+          "address": "Osaka, Japan",
+          "description": "Pick neighborhood okonomiyaki spots (avoid famous long-queue ones).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=okonomiyaki+Osaka+local",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Kushikatsu (Shinsekai, but pick quieter)",
+          "address": "Shinsekai, Osaka",
+          "description": "Classic Osaka; choose a smaller place slightly off the main drag.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=kushikatsu+Shinsekai",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4012.html"
+        },
+        {
+          "name": "Yakiniku in Tsuruhashi area",
+          "address": "Tsuruhashi, Osaka",
+          "description": "Strong yakiniku neighborhood; go on weekdays to avoid crowds.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tsuruhashi+yakiniku",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4034.html"
+        },
+        {
+          "name": "Udon / soba near Umeda",
+          "address": "Umeda, Osaka",
+          "description": "Great lunch while mall-hopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Umeda+udon",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Sushi counter (reservation)",
+          "address": "Osaka, Japan",
+          "description": "Book a counter to avoid queues; Osaka has many high-quality mid-tier options.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=sushi+counter+reservation+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Tonkatsu (dept store area)",
+          "address": "Osaka, Japan",
+          "description": "Easy and satisfying after shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=tonkatsu+Osaka+Umeda",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Depachika dinner (Hankyu / Daimaru / Hanshin)",
+          "address": "Umeda / Namba, Osaka",
+          "description": "High-quality grab-and-go, zero waiting.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Hankyu+depachika+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.hankyu-dept.co.jp/"
+        },
+        {
+          "name": "Takoyaki (neighborhood stand)",
+          "address": "Osaka, Japan",
+          "description": "Try a few neighborhood stands instead of the famous tourist queues.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=takoyaki+Osaka+local+stand",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4020.html"
+        },
+        {
+          "name": "Tempura / tendon shops",
+          "address": "Osaka, Japan",
+          "description": "Reliable meal; choose places with short lines and clear menus.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=tendon+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        }
+      ],
+      "theme_parks": [
+        {
+          "name": "Hirakata Park (ひらかたパーク)",
+          "address": "1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan",
+          "description": "Amusement park; good for an ‘exciting activity’ day without going far.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Hirakata+Park+1-1+Hirakatakoencho+Hirakata+Osaka+573-0054+Japan",
+          "lat": 34.805973,
+          "lng": 135.6388,
+          "ref": "https://japantravel.navitime.com/en/area/jp/spot/02301-1900674/"
+        }
+      ],
+      "zoos": [
+        {
+          "name": "Osaka Aquarium Kaiyukan",
+          "address": "1-1-10 Kaigandori, Minato-ku, Osaka 552-0022, Japan",
+          "description": "Top aquarium in Kansai; great ‘animal entertainment’ option.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan+1-1-10+Kaigandori+Minato-ku+Osaka+552-0022+Japan",
+          "lat": 34.6527,
+          "lng": 135.424,
+          "ref": "https://www.the-kansai-guide.com/en/directory/item/11430/"
+        },
+        {
+          "name": "Osaka Tennoji Zoo",
+          "address": "1-108 Chausuyamacho, Tennoji Ward, Osaka 543-0063, Japan",
+          "description": "Classic city zoo; easy add-on with nearby shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tennoji+Zoo+1-108+Chausuyamacho+Tennoji+Ward+Osaka+543-0063+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.tennojizoo.jp/"
+        },
+        {
+          "name": "NIFREL (Expo City)",
+          "address": "2-1 Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+          "description": "Modern ‘aquarium x art’ animal exhibits; great date-style spot.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=NIFREL+2-1+Senribanpakukoen+Suita+Osaka+565-0826+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.nifrel.jp/"
+        }
+      ],
+      "malls": [
+        {
+          "name": "GRAND FRONT OSAKA",
+          "address": "4-20 Ofukacho, Kita Ward, Osaka 530-0011, Japan",
+          "description": "Huge mall complex; great for sports stores + food + coffee.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Grand+Front+Osaka+4-20+Ofukacho+Kita+Ward+Osaka+530-0011+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.grandfront-osaka.jp/"
+        },
+        {
+          "name": "NU Chayamachi / Umeda area malls",
+          "address": "Chayamachi, Kita Ward, Osaka",
+          "description": "Cluster for fashion/lifestyle browsing; easy walkable zone.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=NU+Chayamachi+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.nuchayamachi.com/"
+        },
+        {
+          "name": "Namba PARKS",
+          "address": "2-10-70 Nanbanaka, Naniwa Ward, Osaka 556-0011, Japan",
+          "description": "Multi-level mall; pleasant even when busy.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Namba+Parks+2-10-70+Nanbanaka+Naniwa+Ward+Osaka+556-0011+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://nambaparks.com/"
+        },
+        {
+          "name": "Abeno Harukas / Q's Mall",
+          "address": "1-1-43 Abenosuji, Abeno Ward, Osaka 545-0052, Japan",
+          "description": "Massive shopping + observation option; good for sports/fashion.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Abeno+Harukas+1-1-43+Abenosuji+Abeno+Ward+Osaka+545-0052+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.abenoharukas-300.jp/en/"
+        },
+        {
+          "name": "LaLaport EXPOCITY",
+          "address": "2-1 Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+          "description": "Mall + NIFREL; good full-day package.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=LaLaport+EXPOCITY+2-1+Senribanpakukoen+Suita+Osaka+565-0826+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://mitsui-shopping-park.com/lalaport/expocity/"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "LiLo Coffee Roasters",
+          "address": "Chuo Ward, Osaka, Japan",
+          "description": "Osaka specialty coffee must; great bean selection.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=LiLo+Coffee+Roasters+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.reddit.com/r/Coffee/comments/ezjcf2/an_osaka_specialty_coffee_guide/"
+        },
+        {
+          "name": "The Roasters Coffee Shinsaibashi",
+          "address": "Osaka, Japan",
+          "description": "Known specialty stop; good for espresso + relaxed seating.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=The+Roasters+Coffee+Shinsaibashi",
+          "lat": null,
+          "lng": null,
+          "ref": "https://ilseonthego.com/best-coffee-shops-in-osaka/"
+        },
+        {
+          "name": "Sloth Coffee Roasters",
+          "address": "1-3-12 Nakatsu, Kita Ward, Osaka 531-0071, Japan",
+          "description": "Solid roaster pick mentioned in specialty coffee guides.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sloth+Coffee+Roasters+1-3-12+Nakatsu+Kita+Ward+Osaka+531-0071+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://sprudge.com/the-sprudge-guide-to-coffee-in-osaka-japan-285719.html"
+        }
+      ],
+      "tourist_spots": [
+        {
+          "name": "Osaka Aquarium Kaiyukan",
+          "address": "1-1-10 Kaigandori, Minato-ku, Osaka 552-0022, Japan",
+          "description": "Animal entertainment anchor spot.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan+1-1-10+Kaigandori+Minato-ku+Osaka+552-0022+Japan",
+          "lat": 34.6527,
+          "lng": 135.424,
+          "ref": "https://latitude.to/articles-by-country/jp/japan/18417/osaka-aquarium-kaiyukan"
+        },
+        {
+          "name": "Dotonbori evening walk",
+          "address": "Dotonbori, Chuo Ward, Osaka",
+          "description": "Iconic neon walk + snacks; avoid peak weekend hours if you hate crowds.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.japan-guide.com/e/e4001.html"
+        },
+        {
+          "name": "Umeda Sky Building",
+          "address": "1-1-88 Oyodonaka, Kita Ward, Osaka 531-6023, Japan",
+          "description": "Fast view payoff without long travel time.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Umeda+Sky+Building+1-1-88+Oyodonaka+Kita+Ward+Osaka+531-6023+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.skybldg.co.jp/en/"
+        },
+        {
+          "name": "Den Den Town (anime / hobby)",
+          "address": "Nipponbashi, Osaka",
+          "description": "Anime/hobby browsing; good for merch hunting.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Den+Den+Town+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.osaka-info.jp/en/"
+        },
+        {
+          "name": "Osaka Castle Park (outside focus)",
+          "address": "1-1 Osakajo, Chuo Ward, Osaka 540-0002, Japan",
+          "description": "If you want a light stroll; not strictly necessary if you’ve been.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Osaka+Castle+Park+1-1+Osakajo+Chuo+Ward+Osaka+540-0002+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.osakacastle.net/"
+        },
+        {
+          "name": "Tennis / squash session (book courts)",
+          "address": "Osaka City",
+          "description": "Check public sports centers for court booking; fun couple activity.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Osaka+tennis+court+reservation",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.osaka.lg.jp/"
+        },
+        {
+          "name": "Expo City (NIFREL + shopping)",
+          "address": "Suita, Osaka",
+          "description": "One-stop day for animals + mall.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Expo+City+Suita+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.expocity-mf.com/"
+        },
+        {
+          "name": "TeamLab Botanical Garden Osaka (if running)",
+          "address": "Nagai Park, Osaka",
+          "description": "Night experience; check dates/tickets closer to Nov 2026.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=teamLab+Botanical+Garden+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.teamlab.art/e/botanicalgarden/"
+        },
+        {
+          "name": "Kitchenware hunt (Sennichimae Doguyasuji)",
+          "address": "Chuo Ward, Osaka",
+          "description": "Great ‘experience’ shopping; practical souvenirs.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Doguyasuji+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.osaka-info.jp/en/"
+        },
+        {
+          "name": "Depachika crawl (Umeda)",
+          "address": "Umeda, Osaka",
+          "description": "High-class food experience without reservations or queues.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Umeda+depachika",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.hankyu-dept.co.jp/"
+        }
+      ]
+    },
+    {
+      "region": "Sakai",
+      "restaurants": [
+        {
+          "name": "Sakai seafood + sushi spots (old port area)",
+          "address": "Sakai, Osaka, Japan",
+          "description": "Look for low-key sushi/seafood around Sakai; avoid “famous” queues in central Osaka.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sakai+Osaka+sushi",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Teishoku near Kitahanada / malls",
+          "address": "Kita-ku, Sakai, Osaka",
+          "description": "Easy meal around AEON; good for mall day.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=定食+北花田",
+          "lat": null,
+          "lng": null,
+          "ref": "https://en.aeonmall.global/mall/sakaikitahanada"
+        },
+        {
+          "name": "Sakai-style yakitori / izakaya (choose by vibe)",
+          "address": "Sakai, Osaka",
+          "description": "Pick small counters; go early evening for quieter mood.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=焼き鳥+堺市",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Coffee + brunch cafes (Sakai)",
+          "address": "Sakai, Osaka",
+          "description": "Pair with roasteries; many good small cafes around suburbs.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=cafe+Sakai+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://en.aeonmall.global/mall/sakaikitahanada"
+        },
+        {
+          "name": "Soba / udon neighborhood shops",
+          "address": "Sakai, Osaka",
+          "description": "Quick comfort lunch; easy parking.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=そば+堺市",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Ramen options near Nakamozu",
+          "address": "Nakamozu, Sakai",
+          "description": "Student-ish area; plenty of good ramen without heavy hype.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=ラーメン+中百舌鳥",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Curry rice spots (Sakai)",
+          "address": "Sakai, Osaka",
+          "description": "Good quick meal after shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=カレー+堺市",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Sakai sweets / wagashi",
+          "address": "Sakai, Osaka",
+          "description": "Pick small wagashi shops for gifts.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=和菓子+堺市",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.sakai.lg.jp/"
+        },
+        {
+          "name": "Okonomiyaki (Sakai local)",
+          "address": "Sakai, Osaka",
+          "description": "Local neighborhood okonomiyaki often beats famous chains.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=お好み焼き+堺市",
+          "lat": null,
+          "lng": null,
+          "ref": "https://tabelog.com/en/osaka/"
+        },
+        {
+          "name": "Depachika / food court in AEON Mall Sakai Kitahanada",
+          "address": "4-1-12 Higashiasakayamacho, Kita-ku, Sakai, Osaka 591-8008, Japan",
+          "description": "When you just want easy food + shopping combo.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=AEON+Mall+Sakai+Kitahanada+4-1-12+Higashiasakayamacho+Kita-ku+Sakai+Osaka+591-8008+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.welcome-aeon.com/storesearch/searchdetail.php?c=0000003680&d=S00818"
+        }
+      ],
+      "theme_parks": [
+        {
+          "name": "(Near Sakai) Hirakata Park",
+          "address": "1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan",
+          "description": "Closest big amusement option in wider Osaka area.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Hirakata+Park+1-1+Hirakatakoencho+Hirakata+Osaka+573-0054+Japan",
+          "lat": 34.805973,
+          "lng": 135.6388,
+          "ref": "https://www.tripexpress.org/attraction-hirakata-park-2814316"
+        }
+      ],
+      "zoos": [
+        {
+          "name": "Osaka Aquarium Kaiyukan (near-ish)",
+          "address": "1-1-10 Kaigandori, Minato-ku, Osaka 552-0022, Japan",
+          "description": "Easy drive from Sakai area.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan+1-1-10+Kaigandori+Minato-ku+Osaka+552-0022+Japan",
+          "lat": 34.6527,
+          "lng": 135.424,
+          "ref": "https://www.the-kansai-guide.com/en/directory/item/11430/"
+        },
+        {
+          "name": "Tennoji Zoo (near-ish)",
+          "address": "1-108 Chausuyamacho, Tennoji Ward, Osaka 543-0063, Japan",
+          "description": "Quick animal option combined with Abeno shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tennoji+Zoo+1-108+Chausuyamacho+Tennoji+Ward+Osaka+543-0063+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.tennojizoo.jp/"
+        },
+        {
+          "name": "NIFREL (near-ish)",
+          "address": "2-1 Senribanpakukoen, Suita, Osaka 565-0826, Japan",
+          "description": "Great modern exhibits; do with Expo City shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=NIFREL+2-1+Senribanpakukoen+Suita+Osaka+565-0826+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.nifrel.jp/"
+        }
+      ],
+      "malls": [
+        {
+          "name": "AEON Mall Sakai Kitahanada",
+          "address": "4-1-12 Higashiasakayamacho, Kita-ku, Sakai, Osaka 591-8008, Japan",
+          "description": "Main Sakai mall base; good for sports stores + toys/anime shops.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=AEON+Mall+Sakai+Kitahanada+4-1-12+Higashiasakayamacho+Kita-ku+Sakai+Osaka+591-8008+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.welcome-aeon.com/storesearch/searchdetail.php?c=0000003680&d=S00818"
+        },
+        {
+          "name": "Ario Otori",
+          "address": "Sakai, Osaka, Japan",
+          "description": "Large suburban mall option in Sakai; good for relaxed shopping.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Ario+Otori",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.ario-otori.jp/"
+        },
+        {
+          "name": "Lalaport Sakai",
+          "address": "Mihara Ward, Sakai, Osaka, Japan",
+          "description": "Newer large mall (check current tenant list nearer to trip).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Mitsui+Shopping+Park+LaLaport+Sakai",
+          "lat": null,
+          "lng": null,
+          "ref": "https://mitsui-shopping-park.com/lalaport/sakai/"
+        },
+        {
+          "name": "Namba PARKS (easy from Sakai by car/rail)",
+          "address": "2-10-70 Nanbanaka, Naniwa Ward, Osaka 556-0011, Japan",
+          "description": "If you want one ‘city mall’ day.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Namba+Parks+2-10-70+Nanbanaka+Naniwa+Ward+Osaka+556-0011+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://nambaparks.com/"
+        },
+        {
+          "name": "Abeno Harukas / Q's Mall (easy from Sakai)",
+          "address": "1-1-43 Abenosuji, Abeno Ward, Osaka 545-0052, Japan",
+          "description": "Big shopping day with zoo nearby.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Abeno+Q's+Mall+1-1-43+Abenosuji+Abeno+Ward+Osaka+545-0052+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.abenoharukas-300.jp/en/"
+        }
+      ],
+      "cafes": [
+        {
+          "name": "LiLo Coffee Roasters (near-ish)",
+          "address": "Osaka, Japan",
+          "description": "Make it a ‘Sakai + Shinsaibashi’ day and stop here.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=LiLo+Coffee+Roasters+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.reddit.com/r/Coffee/comments/ezjcf2/an_osaka_specialty_coffee_guide/"
+        },
+        {
+          "name": "Sloth Coffee Roasters (near-ish)",
+          "address": "1-3-12 Nakatsu, Kita Ward, Osaka 531-0071, Japan",
+          "description": "Good roaster target in wider Osaka.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sloth+Coffee+Roasters+1-3-12+Nakatsu+Kita+Ward+Osaka+531-0071+Japan",
+          "lat": null,
+          "lng": null,
+          "ref": "https://sprudge.com/the-sprudge-guide-to-coffee-in-osaka-japan-285719.html"
+        },
+        {
+          "name": "Local Sakai cafes (choose by area)",
+          "address": "Sakai, Osaka",
+          "description": "Use maps to pick small roasters near your route; avoid hype lines.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=coffee+roastery+Sakai+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.sakai.lg.jp/"
+        }
+      ],
+      "tourist_spots": [
+        {
+          "name": "Daisen Park (大仙公園)",
+          "address": "Sakai, Osaka, Japan",
+          "description": "Relaxed park stroll; good low-effort break.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Daisen+Park+Sakai",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.sakai.lg.jp/"
+        },
+        {
+          "name": "Sakai Knife Museum / craft shopping",
+          "address": "Sakai, Osaka, Japan",
+          "description": "Sakai is famous for blades—great practical souvenir (non-temple).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sakai+Traditional+Crafts+Museum+knife",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.sakai.lg.jp/"
+        },
+        {
+          "name": "Mozu-Furuichi Kofun area (outside view)",
+          "address": "Sakai, Osaka, Japan",
+          "description": "World heritage tomb mounds; enjoy as a walk/bike, not a ‘temple visit’.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Mozu+kofun+Sakai",
+          "lat": null,
+          "lng": null,
+          "ref": "https://whc.unesco.org/en/list/1593/"
+        },
+        {
+          "name": "Lalaport Sakai shopping day",
+          "address": "Sakai, Osaka, Japan",
+          "description": "Mall-focused day (anime shops + sports stores).",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=LaLaport+Sakai",
+          "lat": null,
+          "lng": null,
+          "ref": "https://mitsui-shopping-park.com/lalaport/sakai/"
+        },
+        {
+          "name": "Osaka Bay area (Kaiyukan)",
+          "address": "Osaka, Japan",
+          "description": "Good half-day: aquarium + nearby ferris wheel / mall.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tempozan+Harbor+Village",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.kaiyukan.com/language/eng/"
+        },
+        {
+          "name": "Abeno area (zoo + mall)",
+          "address": "Osaka, Japan",
+          "description": "Easy packaged day from Sakai.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Tennoji+Zoo",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.tennojizoo.jp/"
+        },
+        {
+          "name": "Tennis courts (Sakai city facilities)",
+          "address": "Sakai, Osaka",
+          "description": "Book courts for a couple session.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Sakai+tennis+court+reservation",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.city.sakai.lg.jp/"
+        },
+        {
+          "name": "Anime/hobby shops in Namba (Den Den Town)",
+          "address": "Osaka, Japan",
+          "description": "Easy access from Sakai by car/rail; fun browsing.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Den+Den+Town+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.osaka-info.jp/en/"
+        },
+        {
+          "name": "Specialty coffee crawl day",
+          "address": "Osaka, Japan",
+          "description": "Plan 2–3 roasters + one depachika dinner; minimal travel time.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=specialty+coffee+Osaka",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.baristamagazine.com/4-cool-cafes-to-check-out-in-osaka/"
+        },
+        {
+          "name": "Outlet option (Rinku Premium Outlets) near KIX",
+          "address": "Rinku, Izumisano, Osaka",
+          "description": "Great on arrival/departure day since you’re driving and flying KIX.",
+          "mappoint": "https://www.google.com/maps/search/?api=1&query=Rinku+Premium+Outlets",
+          "lat": null,
+          "lng": null,
+          "ref": "https://www.premiumoutlets.co.jp/en/rinku/"
+        }
+      ]
+    }
+  ]
+}
