@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "関西観光ガイド",
+    "subtitle": "和歌山 · 奈良 · 京都 · 大阪 · 堺"
+  },
+  "nav": {
+    "listView": "リスト",
+    "mapView": "マップ"
+  },
+  "filter": {
+    "search": "スポットを検索...",
+    "region": "地域",
+    "category": "カテゴリ",
+    "allRegions": "全地域",
+    "allCategories": "全カテゴリ",
+    "starredOnly": "お気に入りのみ",
+    "clear": "フィルターをクリア",
+    "results": "{{count}} 件"
+  },
+  "category": {
+    "restaurants": "レストラン",
+    "theme_parks": "テーマパーク",
+    "zoos": "動物園・水族館",
+    "malls": "ショッピングモール",
+    "cafes": "カフェ",
+    "tourist_spots": "観光スポット"
+  },
+  "region": {
+    "Wakayama": "和歌山",
+    "Nara": "奈良",
+    "Kyoto": "京都",
+    "Osaka": "大阪",
+    "Sakai": "堺"
+  },
+  "detail": {
+    "back": "戻る",
+    "address": "住所",
+    "description": "説明",
+    "openInMaps": "Google Mapsで開く",
+    "website": "ウェブサイト",
+    "noCoordinates": "座標データなし"
+  },
+  "star": {
+    "add": "お気に入りに追加",
+    "remove": "お気に入りから削除"
+  },
+  "map": {
+    "legend": "凡例",
+    "layers": "レイヤー",
+    "showStarred": "お気に入り表示",
+    "hideAll": "全て非表示",
+    "showAll": "全て表示"
+  },
+  "lang": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "ja": "日本語"
+  }
+}

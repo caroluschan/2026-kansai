@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Kansai Tourist Guide",
+    "subtitle": "Wakayama · Nara · Kyoto · Osaka · Sakai"
+  },
+  "nav": {
+    "listView": "List",
+    "mapView": "Map"
+  },
+  "filter": {
+    "search": "Search locations...",
+    "region": "Region",
+    "category": "Category",
+    "allRegions": "All Regions",
+    "allCategories": "All Categories",
+    "starredOnly": "Starred Only",
+    "clear": "Clear Filters",
+    "results": "{{count}} locations"
+  },
+  "category": {
+    "restaurants": "Restaurants",
+    "theme_parks": "Theme Parks",
+    "zoos": "Zoos & Aquariums",
+    "malls": "Shopping Malls",
+    "cafes": "Cafés",
+    "tourist_spots": "Tourist Spots"
+  },
+  "region": {
+    "Wakayama": "Wakayama",
+    "Nara": "Nara",
+    "Kyoto": "Kyoto",
+    "Osaka": "Osaka",
+    "Sakai": "Sakai"
+  },
+  "detail": {
+    "back": "Back",
+    "address": "Address",
+    "description": "Description",
+    "openInMaps": "Open in Google Maps",
+    "website": "Website",
+    "noCoordinates": "Coordinates not available"
+  },
+  "star": {
+    "add": "Add to favorites",
+    "remove": "Remove from favorites"
+  },
+  "map": {
+    "legend": "Legend",
+    "layers": "Layers",
+    "showStarred": "Show Starred",
+    "hideAll": "Hide All",
+    "showAll": "Show All"
+  },
+  "lang": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "ja": "日本語"
+  }
+}

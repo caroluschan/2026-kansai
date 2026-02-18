@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "關西旅遊指南",
+    "subtitle": "和歌山 · 奈良 · 京都 · 大阪 · 堺"
+  },
+  "nav": {
+    "listView": "列表",
+    "mapView": "地圖"
+  },
+  "filter": {
+    "search": "搜尋地點...",
+    "region": "地區",
+    "category": "類別",
+    "allRegions": "全部地區",
+    "allCategories": "全部類別",
+    "starredOnly": "僅顯示收藏",
+    "clear": "清除篩選",
+    "results": "{{count}} 個地點"
+  },
+  "category": {
+    "restaurants": "餐廳",
+    "theme_parks": "主題樂園",
+    "zoos": "動物園與水族館",
+    "malls": "購物中心",
+    "cafes": "咖啡廳",
+    "tourist_spots": "觀光景點"
+  },
+  "region": {
+    "Wakayama": "和歌山",
+    "Nara": "奈良",
+    "Kyoto": "京都",
+    "Osaka": "大阪",
+    "Sakai": "堺"
+  },
+  "detail": {
+    "back": "返回",
+    "address": "地址",
+    "description": "說明",
+    "openInMaps": "在 Google Maps 開啟",
+    "website": "網站",
+    "noCoordinates": "座標資料不可用"
+  },
+  "star": {
+    "add": "加入收藏",
+    "remove": "取消收藏"
+  },
+  "map": {
+    "legend": "圖例",
+    "layers": "圖層",
+    "showStarred": "顯示收藏",
+    "hideAll": "全部隱藏",
+    "showAll": "全部顯示"
+  },
+  "lang": {
+    "en": "English",
+    "zh-TW": "繁體中文",
+    "ja": "日本語"
+  }
+}
