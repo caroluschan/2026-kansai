@@ -32,6 +32,7 @@ function flattenLocations(data: TripDataset): Location[] {
           lat: item.lat,
           lng: item.lng,
           ref: item.ref,
+          images: item.images ?? [],
           region: region.region,
           category,
         });

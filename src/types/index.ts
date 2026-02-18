@@ -16,6 +16,7 @@ export interface RawLocation {
   lat: number | null;
   lng: number | null;
   ref: string;
+  images?: string[];
 }
 
 export interface RawRegion {
@@ -55,6 +56,7 @@ export interface Location {
   ref: string;
   region: RegionName;
   category: Category;
+  images: string[];
 }
 
 export type ViewMode = 'list' | 'map';

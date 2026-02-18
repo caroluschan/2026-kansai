@@ -1,0 +1,45 @@
+Geocoding accuracy log for low-confidence entries
+Low-confidence means route/area/generic entries without a single exact POI.
+Total low-confidence entries: 41
+
+- [Wakayama / restaurants] Mehari-zushi (めはり寿司) specialist shops (Kumano area) | Tanabe / Shingu area, Wakayama | generic-area estimate or area-center geocode
+- [Wakayama / restaurants] Shirasu-don spots (Kainan / Wakayama) | Kainan / Wakayama coast | generic-area estimate or area-center geocode
+- [Wakayama / restaurants] Sushi / Kaiseki in Shirahama (choose by same-day mood) | Shirahama, Wakayama | generic-area estimate or area-center geocode
+- [Wakayama / cafes] (Shirahama) specialty coffee stops (pick by area) | Shirahama, Wakayama | generic-area estimate or area-center geocode
+- [Wakayama / cafes] (Kumano / Tanabe) coffee stops (pick by route) | Tanabe / Shingu, Wakayama | generic-area estimate or area-center geocode
+- [Wakayama / tourist_spots] Kimiidera Park / coastal viewpoints nearby | Wakayama, Japan | generic-area estimate or area-center geocode
+- [Wakayama / tourist_spots] Kumano Kodo (short section only) | Tanabe / Hongu area | generic-area estimate or area-center geocode
+- [Wakayama / tourist_spots] Roadside stations (道の駅) for local snacks | Various | generic-area estimate or area-center geocode
+- [Nara / restaurants] Kakinoha-zushi specialty shops | Nara Prefecture | generic-area estimate or area-center geocode
+- [Nara / restaurants] Nara local soba shops (choose by area) | Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / restaurants] Yamato chicken yakitori spots | Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / restaurants] Miwa somen (near Sakurai) | Sakurai, Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / restaurants] Katsudon / teishoku near Yamato-Saidaiji | Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / tourist_spots] Mt. Wakakusa viewpoint (optional) | Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / tourist_spots] Uda / Yoshino countryside (pick one stop) | Nara Prefecture | generic-area estimate or area-center geocode
+- [Nara / tourist_spots] Nara craft shops (Nakagawa Masashichi etc.) | Nara, Japan | generic-area estimate or area-center geocode
+- [Nara / tourist_spots] Tennis courts (public) + quick hit | Nara City / Ikoma | generic-area estimate or area-center geocode
+- [Kyoto / restaurants] Nishiki Market food grazing (choose stalls) | Nakagyo Ward, Kyoto, Japan | generic-area estimate or area-center geocode
+- [Kyoto / restaurants] Kyoto curry udon spots | Kyoto, Japan | generic-area estimate or area-center geocode
+- [Kyoto / restaurants] Katsu / teishoku near Kyoto Station | Kyoto Station area | generic-area estimate or area-center geocode
+- [Kyoto / malls] Yodobashi Kyoto (tech + sports corners nearby) | 590-2 Higashishiokojicho, Shimogyo Ward, Kyoto 600-8216, Japan | generic-area estimate or area-center geocode
+- [Osaka / restaurants] Kushikatsu (Shinsekai, but pick quieter) | Shinsekai, Osaka | generic-area estimate or area-center geocode
+- [Osaka / restaurants] Udon / soba near Umeda | Umeda, Osaka | generic-area estimate or area-center geocode
+- [Osaka / restaurants] Depachika dinner (Hankyu / Daimaru / Hanshin) | Umeda / Namba, Osaka | generic-area estimate or area-center geocode
+- [Osaka / restaurants] Tempura / tendon shops | Osaka, Japan | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Sakai seafood + sushi spots (old port area) | Sakai, Osaka, Japan | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Teishoku near Kitahanada / malls | Kita-ku, Sakai, Osaka | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Sakai-style yakitori / izakaya (choose by vibe) | Sakai, Osaka | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Soba / udon neighborhood shops | Sakai, Osaka | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Ramen options near Nakamozu | Nakamozu, Sakai | generic-area estimate or area-center geocode
+- [Sakai / restaurants] Curry rice spots (Sakai) | Sakai, Osaka | generic-area estimate or area-center geocode
+- [Sakai / theme_parks] (Near Sakai) Hirakata Park | 1-1 Hirakatakoencho, Hirakata, Osaka 573-0054, Japan | generic-area estimate or area-center geocode
+- [Sakai / zoos] Osaka Aquarium Kaiyukan (near-ish) | 1-1-10 Kaigandori, Minato-ku, Osaka 552-0022, Japan | generic-area estimate or area-center geocode
+- [Sakai / zoos] Tennoji Zoo (near-ish) | 1-108 Chausuyamacho, Tennoji Ward, Osaka 543-0063, Japan | generic-area estimate or area-center geocode
+- [Sakai / zoos] NIFREL (near-ish) | 2-1 Senribanpakukoen, Suita, Osaka 565-0826, Japan | generic-area estimate or area-center geocode
+- [Sakai / cafes] LiLo Coffee Roasters (near-ish) | Osaka, Japan | generic-area estimate or area-center geocode
+- [Sakai / cafes] Sloth Coffee Roasters (near-ish) | 1-3-12 Nakatsu, Kita Ward, Osaka 531-0071, Japan | generic-area estimate or area-center geocode
+- [Sakai / cafes] Local Sakai cafes (choose by area) | Sakai, Osaka | generic-area estimate or area-center geocode
+- [Sakai / tourist_spots] Mozu-Furuichi Kofun area (outside view) | Sakai, Osaka, Japan | generic-area estimate or area-center geocode
+- [Sakai / tourist_spots] Anime/hobby shops in Namba (Den Den Town) | Osaka, Japan | generic-area estimate or area-center geocode
+- [Sakai / tourist_spots] Outlet option (Rinku Premium Outlets) near KIX | Rinku, Izumisano, Osaka | generic-area estimate or area-center geocode
